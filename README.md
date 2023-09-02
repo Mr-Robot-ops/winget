@@ -28,8 +28,7 @@ python --version
 6. Installieren Sie ggf. die benötigten Module nach.
 - Windows+R
 - cmd eingeben
-- STRG+Shift+Enter um die Eingabeaufforderung als Administrator zu starten
-Anschließend die fehlenden Module installieren. Den "modulname" durch den tatsächlichen ersetzen.
+- STRG+Shift+Enter um die Eingabeaufforderung als Administrator zu starten. Anschließend die fehlenden Module installieren und den "modulname" durch den tatsächlichen ersetzen.
 
 ```
 pip install modulname
