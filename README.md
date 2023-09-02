@@ -13,7 +13,7 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 3. **Entpacken**: Entpacken Sie das heruntergeladene Archiv an den gewünschten Speicherort auf Ihrem Computer.
 
-4. **Ausführen**: Starten Sie das Script mit Python (`winget_Upgrade_GUI_2.2`), um das Tool zu starten.
+4. **Ausführen**: Starten Sie das Script mit Python (`Wintget_x_Upgrade_GUI_Version_2.2.py`), um das Tool zu starten.
 
 5. Installieren Sie ggf. die benötigten Module
 
