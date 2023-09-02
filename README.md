@@ -48,6 +48,8 @@ pip install modulname
 
 6. Mit der rechten Maustaste können Sie ein Kontextmenu öffnen und zwischen 4 Farben wählen.
 
+![x_gif](https://github.com/Mr-Robot-ops/winget-x/assets/55334802/45560489-e696-4835-bc82-3b8a054a42e5)
+
 ## Beitrag
 
 Wenn Sie zu diesem Projekt beitragen möchten, können Sie gerne Pull Requests erstellen oder Fehler melden. Wir begrüßen Ihre Hilfe und Ihr Feedback!
