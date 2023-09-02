@@ -1,1 +1,1 @@
-# winget
+winget-upgrade-gui
