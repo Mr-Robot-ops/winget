@@ -21,7 +21,7 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 1. Starten Sie das Tool, und klicken Sie auf den Button "Aktualisierbare Anwendung auflisten" um eine Liste der aktualisierbaren Anwendungen anzuzeigen.
 
-2. Wählen Sie die gewünschten Anwendungen aus der Liste aus. Halten Sie Shift gedrückt um mehrere Anwendungen auszuwählen. Wenn Sie einzellne abwählen möchten halten Sie die STRG Taste gedrückt und klicken Sie auf die Anwendung die sie hinzu oder abwählen möchten. 
+2. Wählen Sie die gewünschten Anwendungen aus der Liste aus. Halten Sie die Umschalttaste (Shift) gedrückt, um mehrere Anwendungen auszuwählen. Wenn Sie die Auswahl einzelner Anwendungen aufheben möchten, halten Sie die STRG-Taste gedrückt und klicken Sie auf die Anwendung, die Sie hinzufügen oder deren Auswahl aufheben möchten.
 
 3. Klicken Sie auf die Schaltfläche "Ausgewählte Anwendungen aktualisieren", um die ausgewählten Anwendungen zu aktualisieren.
 
