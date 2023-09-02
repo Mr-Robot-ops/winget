@@ -10,7 +10,7 @@ import time
 
 # Autor: Mr-Robot-ops
 # Licence CC0
-# Version 2.2
+# Version 2.3
 
 # Liste für die Anwendungsdaten
 app_data = []
@@ -143,7 +143,7 @@ def update_rainbow_gradient():
 
 # Initialisieren Sie das Hauptfenster
 root = tk.Tk()
-root.title("Winget x - Aktualisierung von Anwendungen")
+root.title("Winget x 2.3 - Aktualisierung von Anwendungen")
 
 # Erstellen Sie den Farbverlauf
 root_label = tk.Label(root)
