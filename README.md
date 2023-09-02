@@ -1,4 +1,4 @@
-# winget Upgrade GUI
+# winget x Upgrade GUI
 ![GitHub](https://img.shields.io/github/license/Mr-Robot-ops/winget-x)
 
 ## Beschreibung
