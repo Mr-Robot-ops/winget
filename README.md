@@ -11,13 +11,29 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 1. **Voraussetzungen**: Stellen Sie sicher, dass Sie Windows Package Manager (winget) und Python auf Ihrem System installiert haben.
 
-2. **Herunterladen des Tools**: Laden Sie die neueste Version des Tools von [GitHub Releases](https://github.com/Mr-Robot-ops/winget-x/releases/tag/winget_Upgrade_GUI_2.2) herunter.
+```
+winget
+```
+```
+python --version
+```
+[Offizielle Python Download Seite](https://www.python.org/downloads/windows/)
 
-3. **Entpacken**: Entpacken Sie das heruntergeladene Archiv an den gewünschten Speicherort auf Ihrem Computer.
+3. **Herunterladen des Tools**: Laden Sie die neueste Version des Tools von [GitHub Releases](https://github.com/Mr-Robot-ops/winget-x/releases/tag/Upgrade_GUI_2.3) herunter.
 
-4. **Ausführen**: Starten Sie das Script mit Python (`Wintget_x_Upgrade_GUI_Version_x.x.py`), um das Tool zu starten.
+4. **Entpacken**: Entpacken Sie das heruntergeladene Archiv an den gewünschten Speicherort auf Ihrem Computer.
 
-5. Installieren Sie ggf. die benötigten Module
+5. **Ausführen**: Starten Sie das Script mit Python (`Wintget_x_Upgrade_GUI_Version_x.x.py`), um das Tool zu benutzen.
+
+6. Installieren Sie ggf. die benötigten Module nach.
+- Windows+R
+- cmd eingeben
+- STRG+Shift+Enter um die Eingabeaufforderung als Administrator zu starten
+Anschließend die fehlenden Module installieren. Den "modulname" durch den tatsächlichen ersetzen.
+
+```
+pip install modulname
+```
 
 ## Verwendung
 
@@ -30,6 +46,8 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 4. Die Ergebnisse werden im Tool angezeigt, einschließlich erfolgreicher oder fehlgeschlagener Aktualisierungen.
 
 5. Um die Anwendungen alphabetisch zu sortieren klicken Sie auf die Spalte "Name".
+
+6. Mit der rechten Maustaste können Sie ein Kontextmenu öffnen und zwischen 4 Farben wählen.
 
 ## Beitrag
 
