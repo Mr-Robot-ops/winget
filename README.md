@@ -1,6 +1,8 @@
 # winget x Upgrade GUI
 ![GitHub](https://img.shields.io/github/license/Mr-Robot-ops/winget-x)
 
+![image](https://github.com/Mr-Robot-ops/winget-x/assets/55334802/d3594c97-e423-4b86-80a1-1fa808ad492d)
+
 ## Beschreibung
 
 Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für Windows, mit dem Sie Windows-Anwendungen mithilfe von Windows Package Manager (winget) aktualisieren können. Das Tool bietet eine einfach zu bedienende Benutzeroberfläche zum Anzeigen und Aktualisieren von verfügbaren Anwendungsaktualisierungen.
