@@ -9,7 +9,8 @@ import threading
 import time
 
 # Autor: Mr-Robot-ops
-# Licence CC0 
+# Licence CC0
+# Version 2.2
 
 # Liste für die Anwendungsdaten
 app_data = []
