@@ -29,7 +29,7 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 4. Die Ergebnisse werden im Tool angezeigt, einschließlich erfolgreicher oder fehlgeschlagener Aktualisierungen.
 
-5. Um die Anwendungen aplhabetisch zu sortieren klicken Sie auf die Spalte "Name".
+5. Um die Anwendungen alphabetisch zu sortieren klicken Sie auf die Spalte "Name".
 
 ## Beitrag
 
@@ -41,8 +41,8 @@ Dieses Projekt ist unter der [CC0 1.0 Universal (CC0 1.0) Public Domain Dedicati
 
 ## Autor
 
-*MrRobot-ops* - [GitHub](https://github.com/Mr-Robot-ops)
+*Mr-Robot-ops* - [GitHub](https://github.com/Mr-Robot-ops)
 
 ## Kontakt
 
-Sie können mich über GitHub kontaktieren
+Sie können mich über GitHub kontaktieren oder Discord: iluckyduck
