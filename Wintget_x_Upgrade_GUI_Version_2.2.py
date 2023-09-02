@@ -143,7 +143,7 @@ def update_rainbow_gradient():
 
 # Initialisieren Sie das Hauptfenster
 root = tk.Tk()
-root.title("Aktualisierung von Anwendungen")
+root.title("Winget x - Aktualisierung von Anwendungen")
 
 # Erstellen Sie den Farbverlauf
 root_label = tk.Label(root)
