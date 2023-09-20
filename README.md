@@ -11,6 +11,18 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 1. **Voraussetzungen**: Stellen Sie sicher, dass Sie Windows Package Manager (winget) und Python auf Ihrem System installiert haben.
 
+Wichtiger Hinweis: Das Skript funktioniert nur, wenn Sie winget bereits in einer Eingabeaufforderung geöffnet und die "Nutzungsbedingungen" akzeptiert haben!
+
+```
+C:\WINDOWS\system32>winget upgrade
+Die Quelle "msstore" erfordert, dass Sie die folgenden Vereinbarungen vor der Verwendung anzeigen.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+Die Quelle erfordert, dass die geografische Region des aktuellen Computers aus 2 Buchstaben an den Back-End-Dienst gesendet wird, damit er ordnungsgemäß funktioniert (z. B. „US“).
+
+Stimmen Sie allen Nutzungsbedingungen der Quelle zu?
+[Y] Ja  [N] Nein:
+```
+
 ```
 winget
 ```
@@ -28,10 +40,10 @@ python --version
 6. Installieren Sie ggf. die benötigten Module nach.
 - Windows+R
 - cmd eingeben
-- STRG+Shift+Enter um die Eingabeaufforderung als Administrator zu starten. Anschließend die fehlenden Module installieren und den "modulname" durch den tatsächlichen ersetzen.
+- STRG+Shift+Enter um die Eingabeaufforderung als Administrator zu starten. Anschließend ggf. das fehlende Modul installieren.
 
 ```
-pip install modulname
+py -m pip install Pillow
 ```
 
 ## Verwendung
