@@ -11,7 +11,7 @@ Die **winget x Upgrade GUI** ist ein benutzerfreundliches grafisches Tool für W
 
 1. **Voraussetzungen**: Stellen Sie sicher, dass Sie Windows Package Manager (winget) und Python auf Ihrem System installiert haben.
 
-Wichtiger Hinweis: Das Skript funktioniert nur, wenn Sie winget bereits in einer Eingabeaufforderung geöffnet und die "Nutzungsbedingungen" akzeptiert haben!
+Wichtiger Hinweis: Das Skript funktioniert nur, wenn Sie winget bereits einmal in einer Eingabeaufforderung geöffnet und die "Nutzungsbedingungen" akzeptiert haben!
 
 ```
 C:\WINDOWS\system32>winget upgrade
